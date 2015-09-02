@@ -8,8 +8,8 @@
 		"watch",
 		"serve"
 	],
-	"version": "0.0.1",
-	"main": "lib/dev.js",
+	"version": "1.0.0",
+	"main": "lib/index.js",
   "dependencies": {
     "chalk": "^0.4.0",
     "st": "^0.4.1",
